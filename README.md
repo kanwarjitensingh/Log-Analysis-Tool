@@ -1,5 +1,11 @@
 # Log Analysis Tool for Cybersecurity
 
+**⚠️ ETHICAL USE ONLY - IMPORTANT DISCLAIMER**
+
+**This project is designed EXCLUSIVELY for ethical security testing and educational purposes. This is a testing tool created for learning cybersecurity concepts and authorized penetration testing only. I will NOT be responsible if this tool is used for wrong, illegal, or malicious purposes. Users must obtain explicit written permission before scanning any networks or systems they do not own. More updates and features will be added to this tool in future releases. By using this tool, you acknowledge that you understand and agree to use it only for legitimate, legal, and ethical purposes.**
+
+---
+
 A simple, cross-platform log analysis tool with GUI interface for cybersecurity professionals. Analyzes system logs, web server logs, and security events.
 
 ## Features
